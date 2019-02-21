@@ -1,20 +1,17 @@
 <?php
 /*
- * Plugin Name: PHP HTML Generator
+ * Plugin Name: PHP ACF Builder
  * Version: 1.0
- * Plugin URI:  https://github.com/Airmanbzh/php-html-generator.git
- * GitHub Plugin URI:  https://github.com/talend-webdev/php-html-generator.git
- * Author URI: http://www.hughlashbrooke.com/
+ * Plugin URI:
+ * GitHub Plugin URI:  https://github.com/talend-webdev/acf-builder.git
  * Requires at least: 4.0
  * Tested up to: 4.0
  *
- * Text Domain: php-html-generator
- * Domain Path: /lang/
- *
- * @package Talend\HtmlTag
+ * Text Domain: acf-builder
+ * Domain Path: /languages/
  * @since 1.0.0
  */
- 
+
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
